@@ -14,12 +14,12 @@
 <script type="text/javascript" src="public/home/js/startstop-slider.js"></script>
 
 <div class="header_top">
-                <div class="logo" title="Trang chủ Home Shoppe">
-                    <a href="<?php echo $domain; ?>"><img src="public/home/images/logo.png"></a>
+                <div class="logo" title="Trang chủ TTShop">
+                    <a href="<?php echo $domain; ?>"><img src="public/home/images/logo4.png"></a>
                 </div>
 
                 <div class="cart">
-                    <p>Chào mừng đến với Home Shoppe. 
+                    <p>Chào mừng đến với TTShop. 
                         <span> Giỏ hàng:</span>
                         <div id="dd" class="wrapper-dropdown-2"> <?php echo $_SESSION['cart_num'] . " hóa đơn"; ?>
                             <ul class="dropdown">
